@@ -5,9 +5,11 @@ import time
 import subprocess as s
 import os
 
+print("Enter Contest Id")
 id=input() # contest id
 
-user = "sharmajatin741" # user handle
+print("Enter your handle")
+user = input() # user handle
 
 url="https://codeforces.com/api/contest.ratingChanges?contestId="+id
 f=True;
