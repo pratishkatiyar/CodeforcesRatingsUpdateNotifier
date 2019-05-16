@@ -1,2 +1,2 @@
 # CodeforcesRatingsUpdateNotifier
-This is a rating update notifier for codeforces contests
+This is a Ratings update notifier for Codeforces contests
